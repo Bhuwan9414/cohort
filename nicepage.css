@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    /* overflow-y: hidden ; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+.navbar{
+    /* background-color: burlywood; */
+    height: 40px;
+    border: 1px solid black;
+    display: flex;
+    /* justify-content: center; */
+}
+
+#img1{
+    height: 25px;
+    margin-top: 7px;
+    margin-left: 3px;
+}
+
+#logos{
+   /* margin-left: 300px; */
+   margin: auto;
+   /* height: 10px; */
+}
+
+.mid{
+    /* position: absolute; */
+    background-position: center center;
+    height: 400px;
+    /* width: 100vw; */
+    background-size: cover;
+   background-image: url("pexelsphoto1927507.jpeg");
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+#text {
+    left: 5rem;
+    top: 5rem;
+    position: absolute;
+    /* position: fixed; */
+    /* display: flex; */
+    color: aliceblue;
+    font-size: 40px;
+}
+
+#text2{
+    left: 10rem;
+    bottom: 1rem;
+    position: absolute;
+    color: aliceblue;
+    font-size: 100px;
+}
+
+#section3{
+    background-color: rgb(94, 159, 159);
+    height: 15rem;
+}
+
+#left{
+    color: white;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    font-size: 20px;
+    
+}
+
+#blacktext{
+    color: black;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+
+#rightpara{
+    
+}
